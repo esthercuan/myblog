@@ -1,5 +1,13 @@
-# Cactus Example Blog
+# My Static Blog
 
-This is an example blog project for [Cactus](https://github.com/koenbok/Cactus). It provides a starting point for your own blog. Just download it, make sure you have [Cactus](https://github.com/koenbok/Cactus) installed and run `cactus serve`.
+This was made with love and [Cactus](https://github.com/koenbok/Cactus). The blog is simple and includes the following: 
+1. Pagination 
+2. Templates 
+3. Markdown support 
 
-You can see it running [here](http://cactus-example-blog.s3-website-us-east-1.amazonaws.com/).
+## Things to add: 
+
+1. Animate CSS for nice entrance animation  
+2. Disqus for comments 
+
+### Feel free to clone! 
