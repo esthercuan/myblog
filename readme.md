@@ -1,6 +1,7 @@
 # My Static Blog
 
 This was made with love and [Cactus](https://github.com/koenbok/Cactus). The blog is simple and includes the following: 
+
 1. Pagination 
 2. Templates 
 3. Markdown support 
